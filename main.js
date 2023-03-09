@@ -1,4 +1,4 @@
-// initialisation d'une constante myMain et attribtion de l'element <main></main> de la page HTML
+/* // initialisation d'une constante myMain et attribtion de l'element <main></main> de la page HTML
 const myMain = document.querySelector('main');
 
 // initialisation d'un constante myDiv avec creation de l'element HTML <div></div>
@@ -40,4 +40,4 @@ function warning() {
 }
 
 //appel de la fonction d'alerte sur un evenement de clic
-myButton.addEventListener('click', warning);
+myButton.addEventListener('click', warning); */
